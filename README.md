@@ -18,7 +18,7 @@ Combined production + market price datasets to highlight economic sustainability
 
 🔹 Key Learnings:
 
-Advanced skills in Python, Pandas, Seaborn, Matplotlib, Squarify.
+Advanced skills in Python, Pandas, Seaborn, Matplotlib.
 
 Strengthened data cleaning, transformation, and feature engineering (yield per hectare).
 
